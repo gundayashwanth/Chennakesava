@@ -1,0 +1,533 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    color: blue;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  .nav-links {
+    display: flex;
+    padding: 20px;
+  }
+  
+  .nav-links a {
+    color: blue;
+    text-decoration: none;
+    margin: 0 15px;
+    gap: 1rem;
+  }
+  .nav-links a:hover{
+    color: red;
+    
+  }
+  .appointment-btn {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .h1{
+    margin-left: 70px;
+  }
+  .h3{
+    color: blue;
+    margin-left: 20px;
+  }
+  .head{
+    display: flex;
+  }
+  .p{
+    margin-left: 60px;
+    margin-top: 40px;
+  }
+
+ .pharmacy{
+    color: green;
+    margin-left: 100px;
+ }
+ .para1{
+    margin-left: 100px;
+ }
+ .lab{
+    color: green;
+    margin-left: 100px;
+ }
+ .para2{
+    margin-left: 90px;
+ }
+ .doc{
+    color: green;
+    margin-left: 100px;
+ }
+ .para3{
+    margin-left: 120px;
+ }
+.physio{
+    color: green;
+    margin-left: 100px;
+}
+.para4{
+    margin-left: 50px;
+}
+.list-container{
+  max-width: 600px;
+  background-color: rgb(228, 235, 238);
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(153, 35, 35, 0.1);
+  overflow: hidden;
+  margin-left: 350px;
+}
+.list1{
+    display: flex;
+}
+.list2{
+    display: flex;
+}
+.list3{
+    display: flex;
+}
+.list4{
+    display: flex;
+}
+.img3{
+    display: flex;
+}
+.intro{
+    margin-left: 300px;
+    color: blue;
+}
+.para5{
+    margin-left: 20px;
+}
+.para6{
+    margin-left: 200px;
+}
+.pc{
+  width: 100%;
+  height: 800px;
+  background-color: skyblue;
+}
+.health{
+    text-align: center;
+    color: black;
+}
+.our{
+    text-align: center;
+    color: black;
+}
+.para6{
+    margin-left: 100px;
+}
+.xray{
+    margin-left: 100px;
+}
+.digitalxray{
+    display: flex;
+}
+.digital{
+    margin-left: 30px;
+}
+.dtxray{
+    flex-direction: column;
+    margin-left: 20px;
+}
+.para7{
+    margin-left: 30px;
+}
+.ecg{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.ecghead{
+    display: flex;
+}
+.ecgh2{
+    margin-left: 30px;
+}
+.phimg{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.pharmh2{
+    margin-left: 30px;
+}
+.pharmacyph{
+    display: flex;
+}
+.heading{
+    text-align: center;
+}
+.calling{
+    background-color: #333;
+    width: 100%;
+    height: 400px;
+}
+.action{
+    color: white;
+    text-align: center;
+}
+.emergency1{
+    font-size: xx-large;
+}
+.emergency1:hover{
+    color: rgb(152, 236, 152);
+}
+.review1-container{
+ max-width: 300px;
+  background-color: rgb(219, 217, 217);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(153, 35, 35, 0.1);
+  overflow: hidden;
+}
+.venu{
+    text-align: center;
+}
+.review2-container{
+  max-width: 300px;
+  background-color: rgb(219, 217, 217);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(153, 35, 35, 0.1);
+  overflow: hidden;
+  margin-left: 20px;
+}
+.img3{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.Mahitha{
+    text-align: center;
+}
+.reviews{
+    display: flex;
+    margin-left: 20px;
+}
+.Ranjith{
+    text-align: center;
+}
+.pk{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(115, 115, 221);
+    margin-top: 10px;
+}
+.icons{
+    font-size: xx-large;
+}
+.pkh2{
+    margin-left: 50px;
+}
+.bottom{
+    display: flex;
+}
+.support{
+    margin-left: 80px;
+}
+.sup-links{
+    padding: 10px;
+}
+.sup-links a{
+    color: black;
+    text-decoration: none;
+}
+.sup-links a:hover{
+    color: white;
+}
+.location{
+    margin-left: 200px;
+}
+.footer-container {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 100px; 
+    height: auto;
+    margin-right: 10px; 
+  }
+  
+  .footer-content {
+    margin-right: 250px;
+  }
+  .phicon{
+    font-size: xx-large;
+  }
+  .labicon{
+    font-size: xx-large;
+  }
+  .doctoricon{
+    font-size: xx-large;
+  }
+.physioicon{
+    font-size: xx-large;
+  }
+  .abouth2{
+    margin-left: 50px;
+  }
+  .aboutus{
+    display: flex;
+  }
+  .aboutpara{
+    margin-left: 150px;
+    margin-top: 40px;
+  }
+  .mission-container{
+    max-width: 500px;
+    background-color: skyblue;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(153, 35, 35, 0.1);
+    overflow: hidden;
+    margin-left: 100px;
+  }
+  .goalicon{
+    font-size: xx-large;
+  }
+  .ourmission{
+    text-align: center;
+  }
+  .policy{
+    text-align: center;
+  }
+  .abt2{
+    display: flex;
+  }
+  .qualityicon{
+    font-size: xx-large;
+  }
+  .abt3{
+    margin-left: 50px;
+  }
+  .visit-btn{
+    background-color: green;
+    color: white;
+    padding: 10px;
+  }
+  .visit-btn:hover{
+    background-color: #333;
+  }
+  .doc-container{
+    max-width: 300px;
+    height: 250px;
+    background-color: ghostwhite;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(153, 35, 35, 0.1);
+    overflow: hidden;
+    margin-top: 40px;
+    margin-left: 5px;
+  }
+  .doc1{
+    display: flex;
+    margin-left: 30px;
+  }
+  .doc2{
+    display: flex;
+    margin-left: 30px;
+  }
+  .onerow{
+    display: flex;
+  }
+  .doc3{
+    display: flex;
+    margin-left: 30px;
+  }
+  .doc4{
+    display: flex;
+  }
+  .secondrow{
+    display: flex;
+    margin-top: 30px;
+  }
+  .d4{
+    margin-left: 160px;
+  }
+  .gal1{
+    margin-left: 30px;
+  }
+  .gal2{
+    margin-left: 30px;
+  }
+  .gal3{
+    margin-left: 30px;
+  }
+  .gal4{
+    margin-left: 20px;
+  }
+  .gallery1{
+    display: flex;
+  }
+  .gal5{
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+  .gallery2{
+    display: flex;
+  }
+  .gal6{
+    margin-left: 100px;
+  }
+  .c1{
+    background-color: rgb(102, 102, 223);
+    width: 100%;
+    height: 200px;
+  }
+  .apply-btn{
+    background-color: green;
+    color: white;
+    padding: 10px;
+  }
+  .apply-btn:hover{
+    background-color: rgb(22, 148, 22);
+  }
+  .opening{
+    text-align: center;
+  }
+
+.contact-us-container {
+  max-width: 450px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: #333;
+  overflow: hidden;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 8px;
+}
+
+input,
+textarea {
+  margin-bottom: 16px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px;
+  font-size: 18px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.contact{
+  text-align: center;
+}
+.appointment-form-container {
+  max-width: 450px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: #333;
+  overflow: hidden;
+
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 8px;
+}
+
+input,
+textarea {
+  margin-bottom: 16px;
+  padding: 8px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+.form{
+  text-align: center;
+}
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+.jobh1{
+  text-align: center;
+}
+.team{
+  text-align: center;
+}
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  border: 1px solid grey;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+.contact-form{
+  border: 1px solid grey;
+}
+.map{
+  width: 100%;
+  height: 400px;
+}
